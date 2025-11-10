@@ -68,3 +68,17 @@ You can invoke a menu for all `prr-mode` commands:
     M-x prr-transient
 
 or bind this to a key (see above).
+
+## Screenshots
+
+Editing a review:
+
+![review](img/review.png)
+
+Code folding:
+
+![folding](img/folding.png)
+
+Transient menu:
+
+![transient](img/transient.png)
